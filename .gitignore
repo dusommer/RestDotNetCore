@@ -4,4 +4,6 @@
 
 /RestDotNetCore/.vs/RestDotNetCore/v16/Server/sqlite3
 /RestDotNetCore/RestDotNetCore/obj
+/RestDotNetCore/RestDotNetCore/bin
+/RestDotNetCore/RestDotNetCore/Properties
 /RestDotNetCore/.vs/RestDotNetCore/v16
