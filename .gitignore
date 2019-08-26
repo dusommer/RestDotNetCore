@@ -3,3 +3,5 @@
 ################################################################################
 
 /RestDotNetCore/.vs/RestDotNetCore/v16/Server/sqlite3
+/RestDotNetCore/RestDotNetCore/obj
+/RestDotNetCore/.vs/RestDotNetCore/v16
